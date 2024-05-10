@@ -1,6 +1,7 @@
 Bem vindo ao meu perfil.
 
-Meu nome: Gabriel Alves de Oliveira
+Meu nome: Gabriel Alves de Oliveira.
+
 Tenho 16 anos
 
 Estou estudando na Alura
